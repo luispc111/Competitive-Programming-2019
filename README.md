@@ -1,4 +1,4 @@
-# Competitive-Programming-Competitions
+# Competitive Programming Competitions
 ## Language: C++
 
 2019:
